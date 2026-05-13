@@ -57,13 +57,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadab-khan-6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadab-khan-6&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-shadab-khan-6s-projects.vercel.app/api?username=shadab-khan-6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shadab-khan-6&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadab-khan-6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats-shadab-khan-6s-projects.vercel.app/api/top-langs/?username=shadab-khan-6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
+
+> **Note:** Stats will populate as you push code and make contributions. Top Languages card shows languages used across your public repos.
 
 ---
 
@@ -75,10 +77,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shadab-khan-6/shadab-khan-6/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadab-khan-6&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
